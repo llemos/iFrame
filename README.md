@@ -28,10 +28,9 @@
 
 ### Main files available in Figshare:
 
-+ Supplementary Table 1.
-+ Genomes files (fasta file).
++ Supplementary Table 1. Access: (https://figshare.com/s/e5cf16b321b1b5cdd6dc)
++ Genomes files (fasta file). Access:  (https://figshare.com/s/e5cf16b321b1b5cdd6dc)
 + 
-
 
 
 
