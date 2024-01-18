@@ -30,7 +30,19 @@
 
 + Supplementary Table 1. Access: (https://figshare.com/s/e5cf16b321b1b5cdd6dc)
 + Genomes files (fasta file). Access:  (https://figshare.com/s/e5cf16b321b1b5cdd6dc)
-+ 
++ Phylogenetic tree of species-level genome bins (SGBs): (https://figshare.com/s/e58150d3fcbc00c86db4)
++ Alignment of Reference: (https://figshare.com/account/projects/169103/articles/25020005)
+
+
+### How to update iFrame repository with new genomes?
+
++  To extend the iFrame repository, there is a phylogenetic tree file on the github platform with all representative genomes, where third-user could add new genomes.
+
+```bat
+conda install -c bioconda epa-ng
+epa-ng --ref-msa Aligned_SCGs_iFrame.faa --tree SGBs_iFrame.tree --query User_alignment.faa --model GTR+G+F
+```
++
 
 
 
